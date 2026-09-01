@@ -62,7 +62,7 @@
 | Bre Saffouri              |        |      |
 | Hailey Gonzalez           |        |      |
 | Denise Soriano            |        |      |
-| Grace Gondela             |        |      |
+| Grace Gondela             | Grace Gondela | 09/01/2026 |
 | Matthew Wolanski          |        |      |
 | Darcy Mupenda             |        |      |
 |                           |        |      |

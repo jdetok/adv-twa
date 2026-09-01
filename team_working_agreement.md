@@ -58,7 +58,7 @@
 
 | Name                      | Signed | Date |
 | ------------------------- | ------ | ---- |
-| Justin DeKock (Tech Lead) |        |      |
+| Justin DeKock (Tech Lead) | Justin DeKock | 09/01/2026 |
 | Bre Saffouri              |        |      |
 | Hailey Gonzalez           |        |      |
 | Denise Soriano            |        |      |

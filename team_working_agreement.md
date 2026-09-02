@@ -60,7 +60,7 @@
 | ------------------------- | ------ | ---- |
 | Justin DeKock (Tech Lead) | Justin DeKock | 09/01/2026 |
 | Bre Saffouri              |        |      |
-| Hailey Gonzalez           |        |      |
+| Hailey Gonzalez           | Hailey Gonzalez| 09/01/2026 |
 | Denise Soriano            |        |      |
 | Grace Gondela             |        |      |
 | Matthew Wolanski          |        |      |

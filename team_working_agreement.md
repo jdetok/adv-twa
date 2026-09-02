@@ -63,7 +63,7 @@
 | Hailey Gonzalez           |        |      |
 | Denise Soriano            |        |      |
 | Grace Gondela             |        |      |
-| Matthew Wolanski          |        |      |
+| Matthew Wolanski | Matthew Wolanski | 09/02/2026 
 | Darcy Mupenda             |        |      |
 |                           |        |      |
 

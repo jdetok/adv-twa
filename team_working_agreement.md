@@ -64,5 +64,5 @@
 | Grace Gondela             | Grace Gondela | 09/01/2026 |
 | Denise Soriano            | Denise Soriano | 09/01/2026 |
 | Matthew Wolanski          | Matthew Wolanski | 09/02/2026 
-| Darcy Mupenda             |        |      |
+| Darcy Mupenda             | Darcy Mupenda | 09/14/2026 |
 
